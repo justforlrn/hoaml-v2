@@ -1,0 +1,8 @@
+version: '3'
+services:
+  app:
+    image: justforlrn/hoaml:lastest
+    container_name: app_be
+    restart: always
+    ports:
+      - 5001:80
