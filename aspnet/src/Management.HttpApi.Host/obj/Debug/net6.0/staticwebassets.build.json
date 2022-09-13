@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "cvIp5oFmdpezb9rqryh6WP5+9yUWzm/XTw23ontA8EI=",
+  "Source": "Management.HttpApi.Host",
+  "BasePath": "_content/Management.HttpApi.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Management.HttpApi.Host\\wwwroot",
+      "Source": "Management.HttpApi.Host",
+      "ContentRoot": "C:\\Users\\SUPER\\Desktop\\hoa\\aspnet\\src\\Management.HttpApi.Host\\wwwroot\\",
+      "BasePath": "_content/Management.HttpApi.Host",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\SUPER\\Desktop\\hoa\\aspnet\\src\\Management.HttpApi.Host\\wwwroot\\global-styles.css",
+      "SourceId": "Management.HttpApi.Host",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SUPER\\Desktop\\hoa\\aspnet\\src\\Management.HttpApi.Host\\wwwroot\\",
+      "BasePath": "_content/Management.HttpApi.Host",
+      "RelativePath": "global-styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\global-styles.css"
+    }
+  ]
+}

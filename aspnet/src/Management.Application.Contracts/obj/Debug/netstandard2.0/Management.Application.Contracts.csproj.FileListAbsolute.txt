@@ -1,0 +1,13 @@
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Application.Contracts\bin\Debug\netstandard2.0\Management.Application.Contracts.deps.json
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Application.Contracts\bin\Debug\netstandard2.0\Management.Application.Contracts.dll
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Application.Contracts\bin\Debug\netstandard2.0\Management.Application.Contracts.pdb
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Application.Contracts\bin\Debug\netstandard2.0\Management.Domain.Shared.dll
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Application.Contracts\bin\Debug\netstandard2.0\Management.Domain.Shared.pdb
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Application.Contracts\obj\Debug\netstandard2.0\Management.Application.Contracts.csproj.AssemblyReference.cache
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Application.Contracts\obj\Debug\netstandard2.0\Management.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Application.Contracts\obj\Debug\netstandard2.0\Management.Application.Contracts.AssemblyInfoInputs.cache
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Application.Contracts\obj\Debug\netstandard2.0\Management.Application.Contracts.AssemblyInfo.cs
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Application.Contracts\obj\Debug\netstandard2.0\Management.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Application.Contracts\obj\Debug\netstandard2.0\Management.Application.Contracts.csproj.CopyComplete
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Application.Contracts\obj\Debug\netstandard2.0\Management.Application.Contracts.dll
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Application.Contracts\obj\Debug\netstandard2.0\Management.Application.Contracts.pdb

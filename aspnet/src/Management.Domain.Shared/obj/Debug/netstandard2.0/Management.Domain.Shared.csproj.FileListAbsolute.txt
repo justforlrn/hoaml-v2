@@ -1,0 +1,11 @@
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Domain.Shared\bin\Debug\netstandard2.0\Management.Domain.Shared.deps.json
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Domain.Shared\bin\Debug\netstandard2.0\Management.Domain.Shared.dll
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Domain.Shared\bin\Debug\netstandard2.0\Management.Domain.Shared.pdb
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Domain.Shared\obj\Debug\netstandard2.0\Management.Domain.Shared.csproj.AssemblyReference.cache
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Domain.Shared\obj\Debug\netstandard2.0\Management.Domain.Shared.EmbeddedFilesManifest.cache
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Domain.Shared\obj\Debug\netstandard2.0\Management.Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Domain.Shared\obj\Debug\netstandard2.0\Management.Domain.Shared.AssemblyInfoInputs.cache
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Domain.Shared\obj\Debug\netstandard2.0\Management.Domain.Shared.AssemblyInfo.cs
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Domain.Shared\obj\Debug\netstandard2.0\Management.Domain.Shared.csproj.CoreCompileInputs.cache
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Domain.Shared\obj\Debug\netstandard2.0\Management.Domain.Shared.dll
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Domain.Shared\obj\Debug\netstandard2.0\Management.Domain.Shared.pdb

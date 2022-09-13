@@ -1,0 +1,15 @@
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Domain\bin\Debug\net6.0\Management.Domain.deps.json
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Domain\bin\Debug\net6.0\Management.Domain.dll
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Domain\bin\Debug\net6.0\Management.Domain.pdb
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Domain\bin\Debug\net6.0\Management.Domain.Shared.dll
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Domain\bin\Debug\net6.0\Management.Domain.Shared.pdb
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Domain\obj\Debug\net6.0\Management.Domain.csproj.AssemblyReference.cache
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Domain\obj\Debug\net6.0\Management.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Domain\obj\Debug\net6.0\Management.Domain.AssemblyInfoInputs.cache
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Domain\obj\Debug\net6.0\Management.Domain.AssemblyInfo.cs
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Domain\obj\Debug\net6.0\Management.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Domain\obj\Debug\net6.0\Management.Domain.csproj.CopyComplete
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Domain\obj\Debug\net6.0\Management.Domain.dll
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Domain\obj\Debug\net6.0\refint\Management.Domain.dll
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Domain\obj\Debug\net6.0\Management.Domain.pdb
+C:\Users\SUPER\Desktop\hoa\aspnet\src\Management.Domain\obj\Debug\net6.0\ref\Management.Domain.dll
