@@ -5,4 +5,4 @@ services:
     container_name: app_be
     restart: always
     ports:
-      - 5001:80
+      - 5000:80

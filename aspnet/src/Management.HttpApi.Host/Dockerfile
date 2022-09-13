@@ -10,9 +10,9 @@ WORKDIR /src
 COPY ["NuGet.Config", "."]
 COPY ["src/Management.HttpApi.Host/Management.HttpApi.Host.csproj", "src/Management.HttpApi.Host/"]
 COPY ["src/Management.Application/Management.Application.csproj", "src/Management.Application/"]
-COPY ["src/Management.Application.Contracts/Management.Application.Contracts.csproj", "src/Management.Application.Contracts/"]
-COPY ["src/Management.Domain.Shared/Management.Domain.Shared.csproj", "src/Management.Domain.Shared/"]
 COPY ["src/Management.Domain/Management.Domain.csproj", "src/Management.Domain/"]
+COPY ["src/Management.Domain.Shared/Management.Domain.Shared.csproj", "src/Management.Domain.Shared/"]
+COPY ["src/Management.Application.Contracts/Management.Application.Contracts.csproj", "src/Management.Application.Contracts/"]
 COPY ["src/Management.EntityFrameworkCore/Management.EntityFrameworkCore.csproj", "src/Management.EntityFrameworkCore/"]
 COPY ["src/Management.HttpApi/Management.HttpApi.csproj", "src/Management.HttpApi/"]
 RUN dotnet restore "src/Management.HttpApi.Host/Management.HttpApi.Host.csproj"
@@ -21,7 +21,7 @@ WORKDIR "/src/src/Management.HttpApi.Host"
 RUN dotnet build "Management.HttpApi.Host.csproj" -c Release -o /app/build
 
 FROM build AS publish
-RUN dotnet publish "Management.HttpApi.Host.csproj" -c Release -o /app/publish
+RUN dotnet publish "Management.HttpApi.Host.csproj" -c Release -o /app/publish /p:UseAppHost=false
 
 FROM base AS final
 WORKDIR /app
